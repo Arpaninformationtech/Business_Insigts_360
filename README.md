@@ -84,8 +84,3 @@ APAC region presents an opportunity for targeted marketing strategies to enhance
 
 5. 𝐃𝐚𝐭𝐚-𝐃𝐫𝐢𝐯𝐞𝐧 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧-𝐌𝐚𝐤𝐢𝐧𝐠: Enabled AtliQ Hardware to analyze departmental trends and make informed, data-backed decisions.
 
-## Live Dashboard
-
-1. Explore the live dashboards [BI_360_Insights](https://app.powerbi.com/view?r=eyJrIjoiNmYzOTUwZjUtNjU1OS00YzMwLWIyNDQtMTJhM2U4YjI5YzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
-2. Open the link above to access the interactive dashboards.
-3. Use the toggle buttons and bookmarks for seamless navigation between views.
